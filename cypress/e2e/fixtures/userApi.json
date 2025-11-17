@@ -1,1 +1,7 @@
+{
+  "nome": "Thaina API",
+  "email": "thaina.api+{{ts}}@example.com",
+  "password": "SenhaForte123!",
+  "administrador": "true"
+}
 
