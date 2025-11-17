@@ -1,1 +1,7 @@
+{
+  "nome": "Produto Automacao {{ts}}",
+  "preco": 199,
+  "descricao": "Produto criado por teste automatizado",
+  "quantidade": 10
+}
 
